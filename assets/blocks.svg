@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 240">
+  <rect x="20" y="130" width="100" height="100" rx="12" fill="#ef6f6c"/>
+  <rect x="140" y="130" width="100" height="100" rx="12" fill="#5fb8d9"/>
+  <rect x="80" y="30" width="100" height="100" rx="12" fill="#f7c948" transform="rotate(-8 130 80)"/>
+  <g font-family="Baloo 2, Arial Rounded MT Bold, sans-serif" font-weight="800" font-size="62" fill="#fff" text-anchor="middle">
+    <text x="70" y="206">A</text><text x="190" y="206">B</text>
+    <text x="130" y="108" transform="rotate(-8 130 80)">C</text>
+  </g>
+</svg>

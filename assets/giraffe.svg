@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 460">
+  <!-- neck -->
+  <path d="M110 190 L120 440 L190 440 L190 190 Z" fill="#f7d36b"/>
+  <g fill="#b9763a">
+    <ellipse cx="140" cy="260" rx="16" ry="22"/>
+    <ellipse cx="170" cy="320" rx="14" ry="20"/>
+    <ellipse cx="138" cy="375" rx="17" ry="22"/>
+    <ellipse cx="166" cy="425" rx="14" ry="14"/>
+  </g>
+  <!-- horns -->
+  <rect x="104" y="40" width="10" height="46" rx="5" fill="#f2c24f"/>
+  <rect x="186" y="40" width="10" height="46" rx="5" fill="#f2c24f"/>
+  <circle cx="109" cy="38" r="12" fill="#6b4a2b"/>
+  <circle cx="191" cy="38" r="12" fill="#6b4a2b"/>
+  <!-- ears -->
+  <ellipse cx="62" cy="120" rx="28" ry="16" fill="#f7d36b" transform="rotate(-18 62 120)"/>
+  <ellipse cx="64" cy="121" rx="18" ry="9" fill="#f3a7a0" transform="rotate(-18 64 121)"/>
+  <ellipse cx="238" cy="120" rx="28" ry="16" fill="#f7d36b" transform="rotate(18 238 120)"/>
+  <ellipse cx="236" cy="121" rx="18" ry="9" fill="#f3a7a0" transform="rotate(18 236 121)"/>
+  <!-- head -->
+  <ellipse cx="150" cy="130" rx="76" ry="66" fill="#f7d36b"/>
+  <path d="M130 70 q20 -22 40 0 q-20 10 -40 0z" fill="#9b5f2c"/>
+  <!-- muzzle -->
+  <ellipse cx="150" cy="158" rx="46" ry="32" fill="#fbe7a6"/>
+  <ellipse cx="134" cy="150" rx="5" ry="4" fill="#b9763a"/>
+  <ellipse cx="166" cy="150" rx="5" ry="4" fill="#b9763a"/>
+  <path d="M126 168 q24 22 48 0" stroke="#4a2c14" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <!-- eyes -->
+  <circle cx="116" cy="108" r="17" fill="#fff"/>
+  <circle cx="184" cy="108" r="17" fill="#fff"/>
+  <circle cx="119" cy="110" r="10" fill="#2b2b2b"/>
+  <circle cx="181" cy="110" r="10" fill="#2b2b2b"/>
+  <circle cx="122" cy="106" r="3.5" fill="#fff"/>
+  <circle cx="184" cy="106" r="3.5" fill="#fff"/>
+  <!-- cheeks -->
+  <circle cx="98" cy="150" r="9" fill="#f3a7a0" opacity=".7"/>
+  <circle cx="202" cy="150" r="9" fill="#f3a7a0" opacity=".7"/>
+</svg>

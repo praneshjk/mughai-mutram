@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320">
+  <ellipse cx="200" cy="296" rx="140" ry="14" fill="#dfe8c8"/>
+  <!-- tail -->
+  <path d="M320 190 q30 -10 24 -40" stroke="#9aa0a6" stroke-width="7" fill="none" stroke-linecap="round"/>
+  <circle cx="344" cy="148" r="8" fill="#9aa0a6"/>
+  <!-- back legs -->
+  <rect x="236" y="220" width="48" height="66" rx="22" fill="#a9afb5"/>
+  <rect x="190" y="226" width="48" height="60" rx="22" fill="#b9bfc5"/>
+  <ellipse cx="260" cy="284" rx="24" ry="9" fill="#f6a5a0"/>
+  <ellipse cx="214" cy="284" rx="24" ry="9" fill="#f6a5a0"/>
+  <!-- body -->
+  <ellipse cx="230" cy="190" rx="105" ry="80" fill="#b9bfc5"/>
+  <!-- front legs -->
+  <rect x="120" y="222" width="46" height="64" rx="22" fill="#b9bfc5"/>
+  <rect x="160" y="228" width="44" height="58" rx="22" fill="#a9afb5"/>
+  <ellipse cx="143" cy="284" rx="24" ry="9" fill="#f6a5a0"/>
+  <ellipse cx="182" cy="284" rx="24" ry="9" fill="#f6a5a0"/>
+  <!-- head -->
+  <circle cx="132" cy="150" r="64" fill="#b9bfc5"/>
+  <!-- trunk -->
+  <path d="M96 170 q-44 10 -40 -50 q2 -34 22 -44" stroke="#b9bfc5" stroke-width="30" fill="none" stroke-linecap="round"/>
+  <!-- ear -->
+  <ellipse cx="166" cy="146" rx="42" ry="56" fill="#a9afb5"/>
+  <ellipse cx="168" cy="148" rx="30" ry="42" fill="#f7b3ae"/>
+  <!-- face -->
+  <circle cx="112" cy="140" r="7" fill="#2b2b2b"/>
+  <circle cx="114" cy="137" r="2.4" fill="#fff"/>
+  <circle cx="98" cy="162" r="9" fill="#f7b3ae" opacity=".8"/>
+  <path d="M96 176 q10 8 22 0" stroke="#2b2b2b" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- tuft -->
+  <path d="M120 88 q8 -16 18 -2 q8 -12 16 2" stroke="#9aa0a6" stroke-width="5" fill="none" stroke-linecap="round"/>
+</svg>
